@@ -8,4 +8,3 @@ def run(input_filename : str):
 
 if __name__ == '__main__':
     run("water520.lmp")
-# %%
