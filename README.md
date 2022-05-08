@@ -25,7 +25,5 @@ An example folder, for simulationg water and store their results for calculating
 The LAMMPS input files and data files, that were used during the project.
 ## src
 Source of python codes -mostly functions- , that were used to solve this project
-## water_example
-An other example for creating water simulation.
 ## workspace
 The current workspace, every run and command are started from here. The main notebook is here where I checked the results. Though it was not a python project so it is not as important thet it is normally
